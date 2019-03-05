@@ -4,7 +4,7 @@ This is a python package for testing controllers for black box system in simulat
 # Installation
 To install, 
 ```
-sudo python setup.py install
+python3 setup.py install --user
 ```
 This should allow you to use the package anywhere in your current environment
 
