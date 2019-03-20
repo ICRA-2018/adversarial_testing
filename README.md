@@ -20,8 +20,7 @@ The tests folder has 3 files:
 
 ## Prerequisites:
 * [Docker](https://www.docker.com/)
-* [nvidia-docker](https://github.com/nvidia/nvidia-docker/wiki/Installation-(version-2.0))
-* Tested on Ubuntu Linux 16.04, Docker version 18.06.1-ce, NVIDIA Driver version 410.48.
+* Tested on Ubuntu Linux 16.04, Docker version 18.06.1-ce.
 
 ## 1. Clone the repository and build ROSLab image:
 ```
