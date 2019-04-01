@@ -20,8 +20,10 @@ The tests folder has 3 files:
 
 ## Prerequisites:
 * [Docker](https://www.docker.com/)
-* Tested on Ubuntu Linux 16.04, Docker version 18.06.1-ce.
-
+* Tested on:
+  * Ubuntu Linux 16.04, Docker version 18.06.1-ce
+  * Windows 10 Home version 17134.590, Docker version 18.02.0-ce
+  
 ## 1. Clone the repository and build ROSLab image:
 ```
 git clone https://github.com/ICRA-2018/adversarial_testing.git
