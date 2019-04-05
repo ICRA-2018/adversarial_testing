@@ -1,6 +1,7 @@
 # adversarial_testing
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/icra2018/adversarial-testing.svg)](https://hub.docker.com/r/icra2018/adversarial-testing)
 <a href="#how-to-run-with-docker"><img src="https://img.shields.io/badge/Docker-instructions-brightgreen.svg"></a>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICRA-2018/adversarial_testing/master?filepath=README.ipynb)
 
 This is a python package for testing controllers for black box system in simulators
 
