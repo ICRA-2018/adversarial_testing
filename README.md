@@ -19,11 +19,10 @@ The tests folder has 3 files:
 - test_cartpole.py: This file tests a nearest neighbor controllder code submitted by user for the Open AI Gym environment Cartpole-v0
 
 # How to Run with Docker
-## Linux / macOS / Windows
 Tested on:
-* Ubuntu 16.04.6 with Docker 18.06.1-ce
-* macOS Mojave 10.14.3 with Docker Desktop for Mac 2.0.0.3 (engine: 18.09.2)
-* Windows 10 Education with Docker Desktop 2.0.0.3 (engine: 18.09.2).
+* Ubuntu 16.04.6 with [Docker 18.06.1-ce](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+* macOS Mojave 10.14.3 with [Docker Desktop for Mac 2.0.0.3 (engine: 18.09.2)](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
+* Windows 10 Education with [Docker Desktop 2.0.0.3 (engine: 18.09.2)](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
 
 1. Open a terminal in Linux/macOS or a PowerShell in Windows and run the command:
 ```
